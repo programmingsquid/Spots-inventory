@@ -4,14 +4,13 @@
     "description": "Lightspeed integration project",
     "type": "module",
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "dependencies": {
-      "dotenv": "^16.0.0",
-      "node-fetch": "^3.2.10",
-      "winston": "^3.7.2"
+        "dotenv": "^16.0.0",
+        "winston": "^3.7.2"
     },
     "devDependencies": {
-      "jest": "^29.0.0"
+        "jest": "^29.0.0"
     }
-  }
+}

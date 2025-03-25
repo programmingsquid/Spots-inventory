@@ -1,5 +1,9 @@
 before running (on server):
 npm install node-fetch dotenv winston
+npm install --save-dev jest
+
+
+
 
 outline:
 my-lightspeed-project/

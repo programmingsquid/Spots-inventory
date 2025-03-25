@@ -1,0 +1,17 @@
+{
+    "name": "spots-inventory",
+    "version": "1.0.0",
+    "description": "Lightspeed integration project",
+    "type": "module",
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {
+      "dotenv": "^16.0.0",
+      "node-fetch": "^3.2.10",
+      "winston": "^3.7.2"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }

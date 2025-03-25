@@ -1,7 +1,7 @@
 import winston from 'winston';
 
 //figure out what this does lmao
-const logger = winston.creatLooger({
+const logger = winston.creatLogger({
     level: 'info', //change to error, warn, debug?
     format: winston.format.combine(
         winston.format.timestamp(),
